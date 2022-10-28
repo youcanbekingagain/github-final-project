@@ -1,2 +1,2 @@
 # github-final-project
-Final Project Part1 of Getting Started with Git and Github
+We are micro-finance startup with a mission to empower and provide opportunities to low income individuals.
